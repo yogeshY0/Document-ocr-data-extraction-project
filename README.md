@@ -4,6 +4,9 @@ An automation pipeline that fetches identity documents (passports, driving licen
 
 Built with [Robocorp / RCC](https://robocorp.com/) and Robot Framework, using Google Drive API for storage and Google Gemini for OCR extraction.
 
+# Demo video link
+[https://www.veed.io/view/26474196-32b8-4916-b744-0b91b36a1f3a?source=editor&panel=share]
+
 ## What it does
 
 1. **Authenticates** with Google Drive using a service account.
